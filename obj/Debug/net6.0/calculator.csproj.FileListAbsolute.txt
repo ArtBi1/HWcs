@@ -1,0 +1,15 @@
+C:\GitGeekBrains\calculator\bin\Debug\net6.0\calculator.exe
+C:\GitGeekBrains\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\GitGeekBrains\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\GitGeekBrains\calculator\bin\Debug\net6.0\calculator.dll
+C:\GitGeekBrains\calculator\bin\Debug\net6.0\calculator.pdb
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.dll
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\refint\calculator.dll
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.pdb
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\GitGeekBrains\calculator\obj\Debug\net6.0\ref\calculator.dll
